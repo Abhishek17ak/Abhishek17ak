@@ -23,6 +23,5 @@ I specialize in taking models from experimentation to production at scale—brid
 
 I am actively seeking roles where strong engineering standards, scalability, and measurable AI outcomes matter. If you are building data products that move beyond notebooks and into production, I'd love to chat!
 
-* **LinkedIn:** [linkedin.com/in/abhishekkalugade](https://www.linkedin.com/in/abhishekkalugade)
 * **Email:** kalugadeabhishek@gmail.com
 * **Portfolio/Projects:** Check out my pinned repositories below! 👇
